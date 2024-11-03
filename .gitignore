@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiGateways/BookShop.ApiGateway/bin/Debug/net8.0
+/ApiGateways/BookShop.ApiGateway/Logs
+/ApiGateways/BookShop.ApiGateway/obj
+/Services/Cart/Cart.Api/bin/Debug/net8.0
+/Services/Cart/Cart.Api/obj
+/Services/Catalog/Catalog.Api/bin/Debug/net8.0
+/Services/Catalog/Catalog.Api/obj
+/Services/Order/Order.Api/bin/Debug/net8.0
+/Services/Order/Order.Api/obj
+/Services/Promotion/Promotion.Api/bin/Debug/net8.0
+/Services/Promotion/Promotion.Api/obj
+*.env
